@@ -1,0 +1,37 @@
+body {background-image: url(content.gif);
+	margin-left: 10%;
+	margin-right: 40%;
+
+}
+
+#conteiner {
+border: 10px white solid;
+background-color:white;
+text-align: right;
+}
+
+#header {
+background-color: #A8F0F0;
+
+}
+
+.span { font-size:14pt;
+}
+
+
+.date{
+border-bottom: 2px #C2E9E9 dashed;
+
+}
+
+.entry {
+border: 4px #C2E9E9 solid;
+border-radius: 15px;
+background-color: #E8FBFB;
+padding: 5px;
+margin-top: 10px;
+text-align: justify;
+
+}
+.entry img {float:right;}
+.spacer {clear:right;}
